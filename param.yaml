@@ -1,0 +1,12 @@
+background_b: 100
+background_r: 50
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris: {host_zxr_precision_5820_tower__46747: 'http://zxr-Precision-5820-Tower:46747/'}
+rosversion: '1.14.13
+
+  '
+run_id: 06f054ce-8af1-11ef-901d-3c6a484069e4
+turtlesim: {background_b: 255, background_g: 255, background_r: 255}

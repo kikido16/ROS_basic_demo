@@ -1,0 +1,19 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/melodic/lib/python2.7/dist-packages",
+        "/home/zxr/wyc/AB3DMOT",
+        "/home/zxr/wyc/AB3DMOT/Xinshuo_PyToolbox",
+        "/home/zxr/wyc/AB3DMOT",
+        "/home/zxr/wyc/AB3DMOT/Xinshuo_PyToolbox",
+        "/home/zxr/CARLA_0.9.13/PythonAPI/carla/dist/carla-0.9.13-py3.7-linux-x86_64.egg"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/melodic/lib/python2.7/dist-packages",
+        "/home/zxr/wyc/AB3DMOT",
+        "/home/zxr/wyc/AB3DMOT/Xinshuo_PyToolbox",
+        "/home/zxr/wyc/AB3DMOT",
+        "/home/zxr/wyc/AB3DMOT/Xinshuo_PyToolbox",
+        "/home/zxr/CARLA_0.9.13/PythonAPI/carla/dist/carla-0.9.13-py3.7-linux-x86_64.egg"
+    ],
+    "ros.distro": "melodic"
+}
